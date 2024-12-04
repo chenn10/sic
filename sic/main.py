@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#Author: TU
 
 import argparse
 import sic_lib 
